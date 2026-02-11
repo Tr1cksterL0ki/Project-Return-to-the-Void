@@ -37,17 +37,17 @@ A **measurement-first** optimization hub for **stable, low-latency VALORANT**:
 - If you use a **wireless 2.4 GHz mouse/keyboard**, keep the dongle away from active USB 3.x ports/cables (USB 3 can interfere with 2.4 GHz).  
   Intel whitepaper: https://www.usb.org/sites/default/files/327216.pdf
 - Close unnecessary background “peripheral suites” and overlays while playing (RGB suites can add background load and sometimes extra input hooks).
-- Start at **1000 Hz polling** and increase only if frametime remains clean (see https://github.com/Tr1cksterL0ki/Project-Return-to-the-Void/blob/main/content/peripherals/mouse%20faq.md).
+- Start at **1000 Hz polling** and increase only if frametime remains clean see: [mouse%20faq.md](https://github.com/Tr1cksterL0ki/Project-Return-to-the-Void/blob/main/content/peripherals/mouse%20faq.md).
 
 ---
 
 ## Start here (docs)
 
-- **Measurement & test workflow:** https://github.com/Tr1cksterL0ki/Project-Return-to-the-Void/blob/main/docs/measurement.md
-- **VALORANT settings & network buffering:** https://github.com/Tr1cksterL0ki/Project-Return-to-the-Void/blob/main/docs/valorant.md
-- **Windows settings that are actually worth doing:** https://github.com/Tr1cksterL0ki/Project-Return-to-the-Void/blob/main/docs/windows.md
-- **BIOS / Ryzen 5700X basics:** https://github.com/Tr1cksterL0ki/Project-Return-to-the-Void/blob/main/docs/bios_ryzen_5700x.md
-- **Do-not-use (unsafe / low-value tweaks):** https://github.com/Tr1cksterL0ki/Project-Return-to-the-Void/blob/main/docs/do_not_use.md
+- [**Measurement & test workflow**](https://github.com/Tr1cksterL0ki/Project-Return-to-the-Void/blob/main/docs/measurement.md)
+- [**VALORANT settings & network buffering**](https://github.com/Tr1cksterL0ki/Project-Return-to-the-Void/blob/main/docs/valorant.md)
+- [**Windows settings that are actually worth doing**](https://github.com/Tr1cksterL0ki/Project-Return-to-the-Void/blob/main/docs/windows.md)
+- [**BIOS / Ryzen 5700X basics**](https://github.com/Tr1cksterL0ki/Project-Return-to-the-Void/blob/main/docs/bios_ryzen_5700x.md)
+- [**Do-not-use (unsafe / low-value tweaks)**](https://github.com/Tr1cksterL0ki/Project-Return-to-the-Void/blob/main/docs/do_not_use.md)
 
 ---
 
@@ -58,7 +58,7 @@ This repo removes or rewrites content that commonly causes harm for competitive 
 - No “disable all security features” playbooks (Defender off, exploit mitigations off, etc.)
 - No “use ancient Windows builds / enable CSM” suggestions (conflicts with Secure Boot requirements)
 
-For context, see: https://github.com/Tr1cksterL0ki/Project-Return-to-the-Void/blob/main/docs/third_party_guides.md
+For context, see: [third_party_guides.md](https://github.com/Tr1cksterL0ki/Project-Return-to-the-Void/blob/main/docs/third_party_guides.md)
 
 ---
 
@@ -74,4 +74,4 @@ If you add a tweak, include:
 ---
 
 ## Changelog
-- https://github.com/Tr1cksterL0ki/Project-Return-to-the-Void/blob/main/CHANGELOG.md
+- [here](https://github.com/Tr1cksterL0ki/Project-Return-to-the-Void/blob/main/CHANGELOG.md)
