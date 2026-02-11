@@ -1,11 +1,11 @@
-# Project Return to the Void (PC#2: Ryzen 7 5700X + RTX 4060)
+# Project Return to the Void (Void's PC: Ryzen 7 5700X + RTX 4060)
 
 A **measurement-first** optimization hub for **stable, low-latency VALORANT**:
 - prioritize **frame-time consistency** (1%/0.1% lows, spike frequency)
 - reduce **end-to-end latency** where it’s measurable (render queue, GPU clocks, input stability)
 - avoid “tweaks” that are **security regressions**, **anti-cheat hostile**, or **hard to roll back**
 
-> This repo is tailored to **PC#2** (Ryzen 7 5700X + RTX 4060). Most items still apply generally, but the defaults and examples assume an 8c/16t Ryzen desktop and an NVIDIA Ada GPU.
+> This repo is tailored to **Void's PC** (Ryzen 7 5700X + RTX 4060). Most items still apply generally, but the defaults and examples assume an 8c/16t Ryzen desktop and an NVIDIA Ada GPU.
 
 ---
 
