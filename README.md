@@ -58,7 +58,7 @@ This repo removes or rewrites content that commonly causes harm for competitive 
 - No “disable all security features” playbooks (Defender off, exploit mitigations off, etc.)
 - No “use ancient Windows builds / enable CSM” suggestions (conflicts with Secure Boot requirements)
 
-For context, see: [third_party_guides.md](https://github.com/Tr1cksterL0ki/Project-Return-to-the-Void/blob/main/docs/third_party_guides.md)
+For context, (see: [third_party_guides.md](https://github.com/Tr1cksterL0ki/Project-Return-to-the-Void/blob/main/docs/third_party_guides.md)).
 
 ---
 
