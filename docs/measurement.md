@@ -31,7 +31,7 @@ This repo is **measurement-first**. If you can’t measure it, treat it as a hyp
 - Using LatencyMon numbers as a universal “game latency score” (it’s primarily a DPC/ISR diagnostic tool)
 - Judging “hitreg” feel without controlling for peeker’s advantage + packet loss + frametime variance
 
-## Recommended experiment order (PC#2: 5700X + 4060)
+## Recommended experiment order (Void's PC: 5700X + 4060)
 1) Fix packet loss / Wi‑Fi issues (Ethernet, router placement, buffering settings)
 2) Reflex ON + stable FPS cap
 3) Remove background bloat (startup apps, overlays)
